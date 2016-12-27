@@ -1,4 +1,5 @@
 #LAMP Installation in ARCH LINUX
+written on 12/25/2016
 
 This document helps users to easily install LAMP Stack on Arch Linux.
 
